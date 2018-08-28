@@ -1,0 +1,14 @@
+# hw1
+hw1
+Your name: Qingzhi Luo
+Your student ID: 010641683
+Your major: Applied Math
+Your preferred email address:  tomrony@163.com
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [x] No
+Place and semester where you took a programming course in Java: sjsu cs46a cs46b cs146 last three semesters	
+Course number and grade received: 46A A- 46B A- 146 B+
+Place and semester where you took a course in data structures: sjsu cs46a cs46b cs146 last three semesters
+Course number and grade received: 46A A- 46B A- 146 B+
+Time it took you to answer the two questions below:
+Did you ask anyone for help? [ ] Yes, [x] No
